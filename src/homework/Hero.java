@@ -1,3 +1,5 @@
+package homework;
+
 class Hero {
     private String name;
     private int hp;
